@@ -1,2 +1,2 @@
 # QRCode-Generator
-Simple Python program to generate QR Codes
+Mall Safe Melas QRCode Generator for the clients enter the platform
